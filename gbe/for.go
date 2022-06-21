@@ -1,8 +1,8 @@
-package main
+package gbe
 
 import "fmt"
 
-func _for() {
+func For() {
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)

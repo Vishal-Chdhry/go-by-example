@@ -1,4 +1,4 @@
-package main
+package gbe
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 
 const s string = "constant"
 
-func constant() {
+func Constant() {
 	fmt.Println(s)
 	const n = 5000000
 

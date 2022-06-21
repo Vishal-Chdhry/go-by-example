@@ -1,8 +1,8 @@
-package main
+package gbe
 
 import "fmt"
 
-func _If() {
+func If() {
 
 	if 7%2 == 0 {
 		fmt.Println("7 is even")

@@ -1,8 +1,8 @@
-package main
+package gbe
 
 import "fmt"
 
-func array() {
+func Array() {
 
 	var a [5]int
 	fmt.Println("emp:", a)
