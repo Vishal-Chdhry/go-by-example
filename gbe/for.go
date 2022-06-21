@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func _for() {
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)
